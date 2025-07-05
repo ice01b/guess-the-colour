@@ -8,9 +8,6 @@ A simple and fun web-based game where you guess the name of a color based on the
 - **Instant Feedback**: Displays feedback on whether the guess is correct or wrong.
 - **Start New Game**: The player can start a new round with a simple click.
 
-## Demo
-
-You can see the game in action by [visiting the demo](#) (link to demo if hosted).
 
 ## How to Play
 
